@@ -1,0 +1,52 @@
+body {
+	font-family: 'Montserrat', sans-serif !important;
+
+}
+input {
+	width: 200px;
+	margin: 40px;
+	width: 300px !important;
+}
+
+.form-control,
+.btn {
+	margin: 20px auto !important;
+	display: block !important;
+	text-align: center !important;
+}
+
+.card {
+	width: 500px;
+	height: 350px;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	border:;
+}
+
+h2,
+.type,
+.description {
+	text-decoration: bold;
+}
+
+h1 {
+	color: #00374f;
+	font-size: 80px !important;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+.card {
+	background: #BDBDBD;
+	height: 500px;
+	width: 800px;
+	padding: 20px 80px;
+	text-align: left;
+	color: white;
+	border-color: #FA5858;
+	border-style: solid;
+	border-width: 4px;
+	border-radius: 18px;
+}
